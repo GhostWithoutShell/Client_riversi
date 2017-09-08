@@ -1,0 +1,2 @@
+#include "mycolor.h"
+
